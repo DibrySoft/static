@@ -1,1 +1,1 @@
-{"Icon":"0gh.png","Background":"bh.png","Images":["imh1.png","imh2.png","imh3.png","imh4.png","imh45png.png"],"CpuMHz":100,"RamMib":256,"DiskMib":512}
+{"Icon":"0gh.png","Background":"bh.png","Images":["imh1.png","imh2.png","imh3.png","imh4.png","imh45png.png"],"CpuMHz":100,"RamMib":256,"DiskMib":512,"Win":true,"Mac":true,"Linux":true}
